@@ -9,5 +9,5 @@ apt update
 apt upgrade
 pkg install python
 pkg install git
-git clone
+git clone https://github.com/lordnelly/Wa-mass-report.git
 cd Wa-mass-report
